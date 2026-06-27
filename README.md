@@ -269,9 +269,7 @@ All payments are **verified server-side** before confirming orders.
 
 ## 👨‍💻 Author
 
-**Satinder Singh Sall**
-Full-Stack Web Developer
-📧 [satindersinghsall111@gmail.com](mailto:satindersinghsall111@gmail.com)
+**Das Chetan, Satya, Bhavya Shah, Anushka Agarwal
 
 ---
 
