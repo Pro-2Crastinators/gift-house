@@ -4,6 +4,7 @@ A complete **full-stack e-commerce web application** built for a wholesale handi
 The platform includes a **customer-facing storefront**, a **secure admin dashboard**, and a **scalable backend API** with authentication, orders, payments, and product management.
 
 ---
+URL - https://weddinggifthouse.netlify.app/
 
 ## 🌐 Live Modules
 
